@@ -1,12 +1,11 @@
 ### Hi there, I'm Joe - aka [ThatsMyShell][website] 👋 
 
-[![Website](https://img.shields.io/website?label=thatsmyshell.com&style=for-the-badge&url=https%3A%2F%2Fthatsmyshell.com)](https://thatsmyshell.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/jzavcer?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://img.shields.io/website?label=thatsmyshell.com&style=for-the-badge&url=https%3A%2F%2Fthatsmyshell.com)](https://www.thatsmyshell.com)
 
 ## I'm a just a curious individual on the path!!
 
 - 🌱 I’m currently learning everything: Puppet, Ruby, PowerShell 🤣
-- 👯 I’m looking to master PowerShell
+- 👯 I’m looking to master PowerShell and Puppet
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play DnD, Hunt, and Fish!
 
