@@ -22,6 +22,11 @@
 
 <br />
 
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 [website]: https://thatsmyshell.com/
 [twitter]: https://twitter.com/jzavcer
 [linkedin]: https://www.linkedin.com/in/josephzavcer/
