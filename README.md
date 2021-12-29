@@ -24,11 +24,10 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
-- [Microsoft Student Partners &lpar;Ambassadors&rpar; – Geek is the new rockstar](https://www.gautamkrishnar.com/microsoft-student-partners/)
-- [An Intro to NumPy](https://www.gautamkrishnar.com/an-intro-to-numpy/)
-- [Lessons from an attack](https://www.gautamkrishnar.com/lessons-from-an-attack/)
-- [A guide to GitHub CLI](https://www.gautamkrishnar.com/a-guide-to-github-cli/)
+- [Pester 5.0 Released](https://thatsmyshell.com/2020/05/27/pester-5-0-released/)
+- [Properly Sealing a VDI Image](https://thatsmyshell.com/2020/04/15/properly-sealing-a-vdi-image/)
+- [PowerShell 7 Release](https://thatsmyshell.com/2020/03/04/powershell-7-release/)
+- [PowerShell TLS 1.2 Only](https://thatsmyshell.com/2020/03/04/powershell-tls-1-2-only/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://thatsmyshell.com/
