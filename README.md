@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning everything: Puppet and Ruby on my own.  Taking a class on Python at Kennesaw State University 🤣
 - 👯 I’m looking to master PowerShell and Puppet
-- 🥅 2022/23 Goals: Bite the bullet and learn Python!
+- 🥅 2024/25 Goals: Bite the bullet and Ansible/Python!
 - ⚡ Fun fact: I love to play DnD, Hunt, and Fish!
 
 ### Connect with me:
